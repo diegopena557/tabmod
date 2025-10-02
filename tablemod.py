@@ -28,7 +28,7 @@ with st.sidebar:
 
 # Create a canvas component with dinamic key
 canvas_result = st_canvas(
-  fill_colorr="rgba(255, 165, 0, 0.3)",
+  fill_color="rgba(255, 165, 0, 0.3)",
   stroke_width=stroke_width,
   stroke_color=stroke_color,
   background_color=bg_color,
